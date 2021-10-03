@@ -37,5 +37,16 @@ The p-value is 0.04168 which is less than the significance level of 0.05. Theref
 
 ## Study Design: MechaCar vs Competition
 
+### Metric to be tested:
+Resale value - one factor people consider when purchasing a vehicle is the resale value. 
+
+Null Hypothesis - The resale value for MechaCar is the same as their competitors.
+Alternative Hypothesis - The resale value for MechaCar is not the same as their competitors.
+
+Statistical Test - Multiple linear regression to predict resale value 
+
+Data needed - resale amounts, age, condition of vehicles, Kelly Blue Book Values
+
+
 
 
